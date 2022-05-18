@@ -7,6 +7,7 @@
    id="svg8"
    sodipodi:docname="Mice Y Labyrinth.svg"
    inkscape:version="1.1.2 (1:1.1+202202051313+0a00cf5339)"
+   shape-rendering="crispEdges"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -69,15 +70,17 @@
      showgrid="false"
      units="cm"
      showguides="false"
-     inkscape:zoom="0.16"
-     inkscape:cx="1112.5"
-     inkscape:cy="1059.375"
+     inkscape:zoom="0.056568543"
+     inkscape:cx="2704.6834"
+     inkscape:cy="4472.4504"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
+     inkscape:current-layer="svg8"
+     showborder="true"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid6111"
@@ -100,7 +103,7 @@
   </metadata>
   <path
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 198.33371,-192.84752 h 109.60392 v 549.60394 l 475.97094,274.80196 -54.80195,94.91977 -475.97096,-274.80196 -475.97097,274.80199 -54.802,-94.91977 475.97102,-274.80199 z"
+     d="M 112.26011,-216.96755 H 221.86404 V 332.63639 L 697.83498,607.43835 643.03303,702.35812 167.06207,427.55616 -308.9089,702.35815 -363.7109,607.43838 112.26011,332.63639 Z"
      id="path8440" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.32612"
@@ -114,94 +117,94 @@
      id="rect9307"
      width="258.7265"
      height="543.7265"
-     x="-1129.657"
-     y="-213.78018" />
+     x="-412.49045"
+     y="-275.4668" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="383.76196"
+     x="-285.4841"
+     y="402.51727"
      transform="scale(1,-1)" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6-0"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="378.88287"
+     x="-285.4841"
+     y="397.63818"
      transform="scale(1,-1)" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6-6"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="374.00378"
+     x="-285.4841"
+     y="392.75909"
      transform="scale(1,-1)" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6-0-2"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="369.12469"
+     x="-285.4841"
+     y="387.88"
      transform="scale(1,-1)" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6-61"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="364.24561"
+     x="-285.4841"
+     y="383.00092"
      transform="scale(1,-1)" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6-0-8"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="359.36652"
+     x="-285.4841"
+     y="378.12183"
      transform="scale(1,-1)" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6-6-7"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="354.48743"
+     x="-285.4841"
+     y="373.24274"
      transform="scale(1,-1)" />
   <rect
      style="fill:#aaeeff;stroke:#000000;stroke-width:0.120905"
      id="rect9307-6-0-2-9"
      width="259.87909"
      height="4.8790951"
-     x="-884.61072"
-     y="349.60834"
+     x="-285.4841"
+     y="368.36365"
      transform="scale(1,-1)" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-     x="-872.90454"
-     y="-413.77676"
+     x="-273.77792"
+     y="-432.53207"
      id="text12141"><tspan
        sodipodi:role="line"
        id="tspan12139"
        style="stroke-width:0.264583"
-       x="-872.90454"
-       y="-413.77676">Listones para  alinear puertas</tspan></text>
+       x="-273.77792"
+       y="-432.53207">Listones para  alinear puertas</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-     x="-1119.7705"
-     y="-250.33058"
+     x="-322.67725"
+     y="-299.71176"
      id="text13435"><tspan
        sodipodi:role="line"
        id="tspan13433"
        style="stroke-width:0.264583"
-       x="-1119.7705"
-       y="-250.33058">Peredes</tspan></text>
+       x="-322.67725"
+       y="-299.71176">Peredes</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
