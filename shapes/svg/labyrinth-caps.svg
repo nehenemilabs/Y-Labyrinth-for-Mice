@@ -7,7 +7,7 @@
    viewBox="0 0 500 500"
    version="1.1"
    id="svg4304"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="labyrinth-caps.svg"
    inkscape:export-filename="labyrinth-caps.pdf"
    inkscape:export-xdpi="17.145"
@@ -27,15 +27,24 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.4204826"
-     inkscape:cx="-173.61004"
-     inkscape:cy="821.6749"
+     inkscape:zoom="0.2973261"
+     inkscape:cx="343.05768"
+     inkscape:cy="908.09385"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid911" />
+  </sodipodi:namedview>
   <defs
      id="defs4301" />
   <g
@@ -44,24 +53,56 @@
      id="layer1">
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.756485"
-       id="rect4196"
-       width="99.243515"
-       height="259.2435"
-       x="204.54352"
-       y="87.76368" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.756485"
-       id="rect4196-0"
-       width="99.243515"
-       height="259.2435"
-       x="104.54352"
-       y="87.76368" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.756485"
        id="rect4196-6"
        width="99.243515"
        height="259.2435"
-       x="303.78702"
-       y="87.76368" />
+       x="306.91666"
+       y="95.25" />
+    <g
+       id="g1170"
+       transform="translate(21.117135,-13.277321)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.756485"
+         id="rect4196-0"
+         width="99.243515"
+         height="259.2435"
+         x="87.3125"
+         y="108.52732" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.335664"
+         id="path935"
+         cx="136.93427"
+         cy="347.92709"
+         r="1.3321681" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.335664"
+         id="path935-3"
+         cx="136.93427"
+         cy="248.479"
+         r="1.3321681" />
+    </g>
+    <g
+       id="g1170-6"
+       transform="translate(120.36065,-13.277321)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.756485"
+         id="rect4196-0-7"
+         width="99.243515"
+         height="259.2435"
+         x="87.3125"
+         y="108.52732" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.335664"
+         id="path935-5"
+         cx="136.93427"
+         cy="347.92709"
+         r="1.3321681" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.335664"
+         id="path935-3-3"
+         cx="136.93427"
+         cy="248.479"
+         r="1.3321681" />
+    </g>
   </g>
 </svg>

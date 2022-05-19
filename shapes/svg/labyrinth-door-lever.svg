@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3970"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="labyrinth-door-lever.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3972"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="222.47435"
+     inkscape:cy="489.44356"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4031" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3967" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4181-9"
+       style="fill:none;stroke:#000000;stroke-width:0.358041"
+       inkscape:transform-center-x="-14.70324"
+       inkscape:transform-center-y="-47.11467"
+       d="m 33.629315,131.65479 a 1.4209794,1.4209793 0 0 1 -1.420979,1.42097 1.4209794,1.4209793 0 0 1 -1.42098,-1.42097 1.4209794,1.4209793 0 0 1 1.42098,-1.42098 1.4209794,1.4209793 0 0 1 1.420979,1.42098 z m 0,-56.616513 a 1.4209794,1.4209793 0 0 1 -1.420979,1.420979 1.4209794,1.4209793 0 0 1 -1.42098,-1.420979 1.4209794,1.4209793 0 0 1 1.42098,-1.42098 1.4209794,1.4209793 0 0 1 1.420979,1.42098 z m -1.420981,-6.21283 c 3.166785,0 5.716218,2.549433 5.716218,5.716218 v 57.999995 c 0,3.16679 -2.549433,5.71622 -5.716218,5.71622 -3.166784,0 -5.716217,-2.54943 -5.716217,-5.71622 V 74.541665 c 0,-3.166785 2.549433,-5.716218 5.716217,-5.716218 z" />
+  </g>
+</svg>

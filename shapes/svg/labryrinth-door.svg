@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3243"
+   sodipodi:docname="labryrinth-door.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3245"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="274.77533"
+     inkscape:cy="362.20385"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3326" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3240">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3514"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9517454,0,1 @ F,0,0,1,0,6.5975998,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="lattice2"
+       gridpoint0="26.443981,58.193981"
+       gridpoint1="145.97268,58.193981"
+       gridpoint2="26.443981,117.72269"
+       gridpoint3="145.97268,117.72269"
+       gridpoint4="56.326157,58.193981"
+       gridpoint5="116.09051,58.193981"
+       gridpoint6="56.326157,117.72269"
+       gridpoint7="116.09051,117.72269"
+       gridpoint8x9="86.208332,58.193981"
+       gridpoint10x11="86.208332,117.72269"
+       gridpoint12="26.443981,73.076158"
+       gridpoint13="145.97268,73.076158"
+       gridpoint14="26.443981,102.84051"
+       gridpoint15="145.97268,102.84051"
+       gridpoint16="56.326157,73.076158"
+       gridpoint17="116.09051,73.076158"
+       gridpoint18="56.326157,102.84051"
+       gridpoint19="116.09051,102.84051"
+       gridpoint20x21="86.208332,73.076158"
+       gridpoint22x23="86.208332,102.84051"
+       gridpoint24x26="26.443981,87.958334"
+       gridpoint25x27="145.97268,87.958334"
+       gridpoint28x30="56.326157,87.958334"
+       gridpoint29x31="116.09051,87.958334"
+       gridpoint32x33x34x35="86.208332,87.958334"
+       id="path-effect3512"
+       is_visible="true"
+       lpeversion="1"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       perimetral="false"
+       live_update="true" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect3328"
+       style="fill:none;stroke:#000000;stroke-width:0.471294"
+       d="m 24.863082,45.480944 5.29e-4,59.529186 c 0,0 71.528175,0.009 112.931089,10e-4 3.64376,-5.2e-4 6.59837,-2.95533 6.59908,-6.599076 0.002,-10.170319 0.005,-30.061919 0.001,-44.979166 -0.001,-4.391629 -3.56293,-7.951394 -7.95455,-7.950936 -21.14896,0.0021 -79.362864,0.0071 -111.577172,-0.0011 z M 31.75,52.916667 c 0.875728,0 1.580782,0.705053 1.580782,1.580782 v 41.500308 c 0,0.875728 -0.705054,1.580782 -1.580782,1.580782 -0.875728,0 -1.580782,-0.705054 -1.580782,-1.580782 V 54.497449 c 0,-0.875729 0.705054,-1.580782 1.580782,-1.580782 z" />
+  </g>
+</svg>
