@@ -31,3 +31,4 @@ Each format has its own folder under "shapes" folder.
 * 1 50 cm servo cable extension
 * 3 FC-51 or MH-B Proximity sensor
 * 1 5V Power source 5mm round connector
+
