@@ -10,7 +10,6 @@ All of them are commonly used by laser cut machines, all files are self descript
 
 Each format has its own folder under "shapes" folder.
 
-
 ## Materials
 * 3mm black acrylic
 * Acrylic adhesive
